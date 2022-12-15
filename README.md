@@ -71,33 +71,35 @@
 
 ##  :desktop_computer: UI/UX
 - **Home Page**
-![homepage login](https://user-images.githubusercontent.com/82142527/207830111-16f9bd01-ce59-4bb5-9ac7-37cb44980364.gif)
+![homepage login](https://user-images.githubusercontent.com/82142527/207830111-16f9bd01-ce59-4bb5-9ac7-37cb44980364.gif)  
     
 - **Main Page**
-![mainpage](https://user-images.githubusercontent.com/82142527/207830156-da6f03df-c800-4e69-8f1d-702ca0b9d2dc.gif)
+![mainpage](https://user-images.githubusercontent.com/82142527/207830156-da6f03df-c800-4e69-8f1d-702ca0b9d2dc.gif)  
     
 - **Search**
-![Search](https://user-images.githubusercontent.com/82142527/207830196-d6fc4180-0a7c-4bfd-bc53-f3a47aa0610f.gif)
+![Search](https://user-images.githubusercontent.com/82142527/207830196-d6fc4180-0a7c-4bfd-bc53-f3a47aa0610f.gif)  
     
 - **Top20**
-![Top20](https://user-images.githubusercontent.com/82142527/207830252-d30ff5a9-3a36-493e-8f19-7dde1f2d237b.gif)
+![Top20](https://user-images.githubusercontent.com/82142527/207830252-d30ff5a9-3a36-493e-8f19-7dde1f2d237b.gif)  
     
 - **Genre**
-![Genre](https://user-images.githubusercontent.com/82142527/207830285-d6a869a4-5715-4fe6-9497-8b0b65be44c9.gif)
+![Genre](https://user-images.githubusercontent.com/82142527/207830285-d6a869a4-5715-4fe6-9497-8b0b65be44c9.gif)  
     
 - **Movie Detail**
+
     Movie page
-    ![ReviewDetailList](https://user-images.githubusercontent.com/82142527/207830387-34de2829-7ed5-460e-9014-b8eaff7e46dd.gif)
+    ![ReviewDetailList](https://user-images.githubusercontent.com/82142527/207830387-34de2829-7ed5-460e-9014-b8eaff7e46dd.gif)  
     
     Movie Trailer
-    ![MovieTrailer](https://user-images.githubusercontent.com/82142527/207830343-bcfd66ff-9a0d-4b83-9942-b8482b4552cf.gif)
+    ![MovieTrailer](https://user-images.githubusercontent.com/82142527/207830343-bcfd66ff-9a0d-4b83-9942-b8482b4552cf.gif)  
     
 - **Movie Review**
+
     Review Detail List
-    ![ReviewDetailList](https://user-images.githubusercontent.com/82142527/207830458-353e46a7-4243-489d-9840-7d5d98eb6c4e.gif)
+    ![ReviewDetailList](https://user-images.githubusercontent.com/82142527/207830458-353e46a7-4243-489d-9840-7d5d98eb6c4e.gif)  
     
     Review Like
-    ![ReviewLike](https://user-images.githubusercontent.com/82142527/207830514-7336f0e7-ad38-4a80-a111-4e0e3062b2bb.gif)
+    ![ReviewLike](https://user-images.githubusercontent.com/82142527/207830514-7336f0e7-ad38-4a80-a111-4e0e3062b2bb.gif)  
     
 - **User WishList & Reivew List**
     ![MovieWishList](https://user-images.githubusercontent.com/82142527/207830588-38e3a01e-4147-49c3-8553-6d0e019236a2.gif)
