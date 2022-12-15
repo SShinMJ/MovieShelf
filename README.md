@@ -13,7 +13,7 @@
       :gear: Backend
     </a>
     <span> | </span>
-    <a href="https://github.com/ThreeBlackShirts/MovieShelf_back">
+    <a href="https://github.com/ThreeBlackShirts/MovieShelf_back_python">
       :bar_chart: Back(python)
     </a>
   </h3>
