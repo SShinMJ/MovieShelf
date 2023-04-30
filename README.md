@@ -73,6 +73,11 @@
 
 <br>
 
+##  :date: 개발 일지
+![Untitled](https://user-images.githubusercontent.com/82142527/235367272-6ddd3fec-dc6d-40ea-813e-1c459d2d0526.png)
+
+<br>
+
 ##  :desktop_computer: UI/UX
 - **Home Page**
 ![homepage login](https://user-images.githubusercontent.com/82142527/207830111-16f9bd01-ce59-4bb5-9ac7-37cb44980364.gif)  
